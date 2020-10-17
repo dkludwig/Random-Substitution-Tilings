@@ -1,6 +1,6 @@
 # Random-Substitution-Tilings
 If you're willing to wade through my really unfortunate lack of dicts or objects, you can make some cool pictures! Like this one: 
-
+![ex4](https://github.com/dkludwig/Random-Substitution-Tilings/blob/main/examples/ex4.pdf) 
 And this one:
 
 This one I decided to make copies of the triangles in this one to get a kaleidoscope feel:
