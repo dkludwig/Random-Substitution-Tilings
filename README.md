@@ -1,4 +1,4 @@
-# Random-Substitution-Tilings
+# Random Substitution Tilings!
 If you're willing to wade through my really unfortunate lack of dicts or objects, you can make some cool pictures! Like this one: 
 
 ![ex4](https://github.com/dkludwig/Random-Substitution-Tilings/blob/main/examples/ex4.png) 
